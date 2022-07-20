@@ -1,3 +1,48 @@
 body {
+    text-align: center;
+    margin: 0;
+    font-family: Helvetica, sans-serif, sans-serif;
+}
+
+
+.topcontainer {
+    background-color: #94B49F;
+    position: relative;
+    padding-top: 100px;
+    margin: 0;
+
+}
+
+
+
+
+.centercontainer {
+    width: 200px;
+    height: 200px;
+    background-color: red;
+
+}
+
+.top-cloud {
+    position: absolute;
+    right: 300px;
+    top: 50px;
+}
+
+.bottom-cloud {
+    position: absolute;
+    left: 300px;
+    bottom: 300px;
+}
+
+
+
+.bottomcontainer {
+    width: 200px;
+    height: 200px;
     background-color: blue;
+}
+
+.pro {
+    text-decoration: underline;
 }
